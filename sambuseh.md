@@ -1,5 +1,5 @@
 
-## who will win!!!
-**M Drikvand**: 8
+## who will win?!!
+**M Drikvand**: -8
 
 **Mr Ahmadi**: 0
