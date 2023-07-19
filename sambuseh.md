@@ -5,4 +5,4 @@
 **Mr Ahmadi**: 0
 
 ### Everyone is invited to eat sambuseh. Mr Drikvand pays for everything.
-![smabuseh](https://github.com/bido-bido/Sambuseh/blob/main/images/sambouse.jpg)
+![smabuseh](https://github.com/ahmadidev21/Sambuseh/blob/main/images/sambouse.jpg)
